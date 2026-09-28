@@ -2,9 +2,9 @@
 
 Una aplicación web para celular inspirada en aplicaciones como CamScanner, diseñada para escanear documentos directamente desde el navegador.
 
-## 🚀 Habre la pagina
+## 🚀 Abre la página
 
-**[Abrir Scanner Web](https://TU-USUARIO.github.io/TU-REPOSITORIO/)**
+**[Abrir Scanner Web](https://martin-githubx13.github.io/Escaner-de-documentos/)**
 
 ## ✨ Características
 
